@@ -78,11 +78,11 @@ link to day model
 
 ## Schedule
 
-As most of the map calculating and API configuring has already been done for me, I only for see a few big unknowns. I would like to get this done in 2 weeks. I would also like to give myself a weekend, so this is technically going to be 10 days of work. Here is a rough plan for myself:  
+As most of the map calculating and API configuring has already been done for me, I only forsee a few big unknowns. I would like to get this done in 2 weeks. I would also like to give myself a weekend, so this is technically going to be 10 days of work. Here is a rough plan for myself:  
 
 **Day 1-3** May 11-13  
 Get Started!  
-Once of my biggest challenges will be getting user authentication to work. I have tried using JWT in Django before and not had much luck chasing errors. I would like to try again from a clean project. If I cannot get it figured out in a resonable amount of time (3days?) I would like to look into trying to use Firebase or something related for User Auth. I will need to also put in the time to research my options and learn how to use them.  
+One of my biggest challenges will be getting user authentication to work. I have tried using JWT in Django before and not had much luck chasing errors. I would like to try again from a clean project. If I cannot get it figured out in a resonable amount of time (3days?) I would like to look into trying to use Firebase or something related for User Auth. I will need to also put in the time to research my options and learn how to use them.  
 However, the plan is:  
 - Build a basic Django app with a simple model. 
 - Put together a DjangoREST API the sends over the model data.
