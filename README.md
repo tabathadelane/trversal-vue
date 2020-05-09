@@ -64,7 +64,7 @@ DURATION - estimated time staying at each location , time object
 TRIP - relationship to trip model  
 
 **USERS**  
-basic user information needed for Auth
+basic user information needed for Auth  
 Basic profile functions, like small bio, city, avatar?
 
 **_WEATHER_**  
