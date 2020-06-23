@@ -81,7 +81,7 @@ link to day model
 
 As most of the map calculating and API configuring has already been done for me, I only forsee a few big unknowns. I would like to get this done in 2 weeks. I would also like to give myself a weekend, so this is technically going to be 10 days of work. Here is a rough plan for myself:  
 
-**Day 1-3** May 11-13  
+**Day 1-3**  
 Get Started!  
 One of my biggest challenges will be getting user authentication to work. I have tried using JWT in Django before and not had much luck chasing errors. I would like to try again from a clean project. If I cannot get it figured out in a resonable amount of time (3days?) I would like to look into trying to use Firebase or something related for User Auth. I will need to also put in the time to research my options and learn how to use them.  
 However, the plan is:  
@@ -92,7 +92,7 @@ However, the plan is:
 - Add a User Model and try JWT again. (Day 2)
 - If I cannot get this to work, I need to spend the rest of the day looking for an alternative and getting it working. (Day 3)
 
-**Day 4** May 14  
+**Day 4**  
 Once you have the basic peices working, expand the application and get it ready for Google Maps. 
 - Create router-links for your basic pages. Probably a user profile, a map view page, and a create and edit trip page?
 - Expand the models (use the ones from the old application)
@@ -100,29 +100,29 @@ Once you have the basic peices working, expand the application and get it ready 
 - Probably fill in some dummy data to make sure that the templates are still filling out currectly. 
 - Cute! Take a break.
 
-**Day 5** May 15  
+**Day 5**  
 Now that we know that everything is talking so far, complete the CRUD functionality. Prove that it works!
 - Add CRUD views to DjangoREST
 - Build a basic form and get it sending information to the backend successfully. 
   
-**Day 6** May 18  
+**Day 6**  
 After the dummy app is functioning, the next big hurdle is finding out how well Google Maps API plays with Vue. The big task today and getting a map to show up!
 - Get the map to initialize on the page!
 
-**Day 7** May 19  
+**Day 7**  
 The next big issue with Google Maps is getting the autocomplete bar and the map to show up on the same page. The code is very finicky. for Day 6 and 7, this will either just work or it will be a huge task. I am giving myself plenty of time to try to work through this. If it goes smooth, then I will just be ahead!
 - Connect the autosearch bar to a form input element and get it to work. 
 - Get it to also work with the map. 
 
-**Day 8** May 20  
+**Day 8**  
 If everyone is being friends at thing point, the only big thing left to do is add the gmaps.py functions that calculate and update the timestamps.
 - Do what I just said. 
 - Prove that it works. 
 
-**Day 9-10** May 21-22  
+**Day 9-10**  
 Hopefully everything went according to plan. Now the only thing left to do is to fine tune a layout and start styling!! Yay!
 
-**Extra** May 25-29
+**Extra**  
 
 - I should look into Gridsome or Nuxt.js. Decide which one will be best for my app.
 
